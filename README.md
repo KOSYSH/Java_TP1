@@ -2,7 +2,7 @@
 
 ## Screenshots du code
 
-![Code Java 1](/Screen/Img/Screenshot_20260906_151822.pn)
+![Code Java 1](/Screen/Img/Screenshot_20260906_151822.png)
 
 ![Code Java 2](/Screen/Img/Screenshot_20260906_151927.png)
 
